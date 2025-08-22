@@ -16,6 +16,6 @@ This is an <ins>underlined</ins> text
 
 ##IMG
 
-This is an image 
+This is an image below:
 
 ![This is a sea otter](https://www.mmc.gov/wp-content/uploads/Sea-otter2004-by-Ryan-Wolt-MA-043219-21.jpg) 
