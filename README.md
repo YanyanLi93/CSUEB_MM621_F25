@@ -2,9 +2,10 @@
 
 I am the B3ST!
 
-Hello, my name is Yanyan Li and here is my repo.
+Hello, my name is Yanyan Li and here is my Space for MM 621.
 
-Reading Discussion 
+Reading Discussions
+
 [Reading Discussion 1](https://github.com/YanyanLi93/CSUEB_MM621_F25/blob/main/diary/entry1.md)
 [Reading Discussion 2](https://github.com/YanyanLi93/CSUEB_MM621_F25/blob/main/diary/ReadingDiscussion2.md)
 
