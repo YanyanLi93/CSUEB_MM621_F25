@@ -4,7 +4,9 @@ I am the B3ST!
 
 Hello, my name is Yanyan Li and here is my repo.
 
-This is a link →_→  [Click Me!](https://play.unity.com/en/games/6123a2b6-b112-4345-9e63-6833df903216/fruit)
+Reading Discussion 
+[Reading Discussion 1](https://github.com/YanyanLi93/CSUEB_MM621_F25/blob/main/diary/entry1.md)
+[Reading Discussion 2](https://github.com/YanyanLi93/CSUEB_MM621_F25/blob/main/diary/ReadingDiscussion2.md)
 
 ##STYLING
 
