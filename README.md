@@ -8,7 +8,7 @@ I am Yanyan Li and I am the B3ST!
 
 [Reading Discussion 2](https://github.com/YanyanLi93/CSUEB_MM621_F25/blob/main/diary/ReadingDiscussion2.md)
 
-**Exercises & Projects**
+<ins>Exercises & Projects</ins>
 
 [In-class Exercise 1](https://yanyanli93.github.io/CSUEB_MM621_F25/Randomizer(YanyanLi))
 
@@ -16,11 +16,8 @@ I am Yanyan Li and I am the B3ST!
 
 ##STYLING
 
-This is **BOLD TEXT**
-
 This is ~~Strikethrough~~
 
-This is an <ins>underlined</ins> text
 
 ##IMG
 
