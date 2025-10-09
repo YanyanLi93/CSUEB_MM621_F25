@@ -10,7 +10,7 @@ I am Yanyan Li and I am the B3ST!
 
 **Exercises & Projects**
 
-[In-class Exercise 1](https://github.com/YanyanLi93/CSUEB_MM621_F25/blob/main/diary/entry1.md)
+[In-class Exercise 1](https://yanyanli93.github.io/CSUEB_MM621_F25/Randomizer(YanyanLi))
 
 ##STYLING
 
