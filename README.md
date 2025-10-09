@@ -1,13 +1,16 @@
-# Welcome to my first Github Page!
+# Welcome to my MM 621 Space!
 
-I am the B3ST!
+I am Yanyan Li and I am the B3ST!
 
-Hello, my name is Yanyan Li and here is my Space for MM 621.
-
-Reading Discussions
+**Reading Discussions**
 
 [Reading Discussion 1](https://github.com/YanyanLi93/CSUEB_MM621_F25/blob/main/diary/entry1.md)
+
 [Reading Discussion 2](https://github.com/YanyanLi93/CSUEB_MM621_F25/blob/main/diary/ReadingDiscussion2.md)
+
+**Exercises & Projects**
+
+[In-class Exercise 1](https://github.com/YanyanLi93/CSUEB_MM621_F25/blob/main/diary/entry1.md)
 
 ##STYLING
 
