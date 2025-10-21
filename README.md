@@ -23,6 +23,7 @@ I am Yanyan Li and I am the B3ST!
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
+<body>
 <div class="box">
         <h2 id="Title">Catch the ball!</h2>
         <div id="ball"></div>
@@ -62,7 +63,7 @@ I am Yanyan Li and I am the B3ST!
         </div>
     </div>
     <script src="script.js"></script>
-
+</body>
 
 This is an image below:
 
