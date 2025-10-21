@@ -8,6 +8,8 @@ I am Yanyan Li and I am the B3ST!
 
 [Reading Discussion 2](https://github.com/YanyanLi93/CSUEB_MM621_F25/blob/main/diary/ReadingDiscussion2.md)
 
+[Reading Discussion 3](https://github.com/YanyanLi93/CSUEB_MM621_F25/blob/main/diary/ReadingDiscussion3.md)
+
 <ins>**Exercises & Projects**</ins>
 
 [In-class Exercise 1](https://yanyanli93.github.io/CSUEB_MM621_F25/Randomizer(YanyanLi))
