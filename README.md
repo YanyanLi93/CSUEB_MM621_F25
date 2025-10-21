@@ -17,7 +17,9 @@ I am Yanyan Li and I am the B3ST!
 [Project 1 - Blind Box](https://yanyanli93.github.io/MM621_F25_Proj1BlindBox/)
 
 
-<h1>~~Otters~~~~</h1>
+~~**Game Time**~~
+
+[CSS Game](https://yanyanli93.github.io/MM621_F25_Proj1BlindBox/)
 
 
 ![This is a sea otter](https://www.mmc.gov/wp-content/uploads/Sea-otter2004-by-Ryan-Wolt-MA-043219-21.jpg) 
