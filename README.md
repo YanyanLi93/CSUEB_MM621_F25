@@ -17,6 +17,11 @@ I am Yanyan Li and I am the B3ST!
 
 <h1>~~GAME TIME!~~</h1>
 
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
 
 <div class="box">
         <h2 id="Title">Catch the ball!</h2>
