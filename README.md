@@ -15,11 +15,10 @@ I am Yanyan Li and I am the B3ST!
 [Project 1 - Blind Box](https://yanyanli93.github.io/MM621_F25_Proj1BlindBox/)
 
 
-This is ~~Strikethrough~~
+<h1>~~GAME TIME!~~</h1>
 
 
 <div class="box">
-        <h1>Web Design Midterm</h1>
         <h2 id="Title">Catch the ball!</h2>
         <div id="ball"></div>
             <h3>Choose your favorite pet from these: Dog, Cat, Bunny, Parrot, Fish. Press ENTER to confirm. </h3>
@@ -53,11 +52,10 @@ This is ~~Strikethrough~~
             </ul>
         <h4 id="Pizza"></h4>
         <div id="submit">
-        <button onclick="submitAnswers()">Submit Quiz</button>
+        <button onclick="submitAnswers()">Submit Answers</button>
         </div>
         </div>
     </div>
-
     <script src="script.js"></script>
 
 
