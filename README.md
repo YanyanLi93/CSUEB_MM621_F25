@@ -16,6 +16,8 @@ I am Yanyan Li and I am the B3ST!
 
 [Project 1 - Blind Box](https://yanyanli93.github.io/MM621_F25_Proj1BlindBox/)
 
+[In-class Exercise 2](https://yanyanli93.github.io/CSUEB_MM621_F25/Randomizer(YanyanLi))
+
 
 ~~**Game Time**~~
 
