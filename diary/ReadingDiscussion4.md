@@ -2,7 +2,7 @@
 # Reading Discussion 4: Chapter 4 of DOET Part 2 pg 141 - 161 (focusing on pg 150 - 161, "The Faucet: A Case History of Design" to the end of Ch 4)
 
 
-1. The Faucet Case: When Intuitive Design Fails
+**1. The Faucet Case: When Intuitive Design Fails**
 
 Norman describes a faucet in a British dormitory that looked like it should turn, but in fact had to be pushed down to work. Many users were confused or had to ask for help.
 Main idea:
