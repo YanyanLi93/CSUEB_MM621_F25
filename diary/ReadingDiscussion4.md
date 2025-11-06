@@ -13,10 +13,12 @@ If a designer wants users to push, the object must look pushable; if it should t
 This shows how powerful signifiers are — they tell people how to interact with things without instructions.
 
 This is another faucet example. From this angle, customers can only see the blue symbol representing cold water on the switch. This makes them inclined to turn the switch towards their direction.
+
 ![faucet](https://raw.githubusercontent.com/YanyanLi93/CSUEB_MM621_F25/main/diary/faucet-headon.jpg)
 
 However, when people look at it from a different angle or get closer, they will find that the cold water is actually in another direction, because there are very small arrows.
-![faucet](https://github.com/YanyanLi93/CSUEB_MM621_F25/edit/main/diary/faucet-towards.jpg) 
+
+![faucet](https://raw.githubusercontent.com/YanyanLi93/CSUEB_MM621_F25/main/diary/faucet-towards.jpg)
 
 2. Human Mental Models vs. Physical Structure
 
