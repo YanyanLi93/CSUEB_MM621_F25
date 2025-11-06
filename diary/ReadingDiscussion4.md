@@ -12,8 +12,11 @@ The appearance (signifier) must match the intended action.
 If a designer wants users to push, the object must look pushable; if it should turn, it must look turnable.
 This shows how powerful signifiers are — they tell people how to interact with things without instructions.
 
-This is another faucet example. 
-![faucet](https://www.mmc.gov/wp-content/uploads/Sea-otter2004-by-Ryan-Wolt-MA-043219-21.jpg) 
+This is another faucet example. From this angle, customers can only see the blue symbol representing cold water on the switch. This makes them inclined to turn the switch towards their direction.
+![faucet](https://github.com/YanyanLi93/CSUEB_MM621_F25/edit/main/diary/faucet-headon.jpg) 
+
+However, when people look at it from a different angle or get closer, they will find that the cold water is actually in another direction, because there are very small arrows.
+![faucet](https://github.com/YanyanLi93/CSUEB_MM621_F25/edit/main/diary/faucet-towards.jpg) 
 
 2. Human Mental Models vs. Physical Structure
 
