@@ -16,7 +16,7 @@ This is another faucet example. From this angle, customers can only see the blue
 ![faucet](https://github.com/YanyanLi93/CSUEB_MM621_F25/edit/main/diary/faucet-headon.jpg) 
 
 However, when people look at it from a different angle or get closer, they will find that the cold water is actually in another direction, because there are very small arrows.
-![faucet](https://github.com/YanyanLi93/CSUEB_MM621_F25/edit/main/diary/image/faucet-towards.jpg) 
+![faucet](https://github.com/YanyanLi93/CSUEB_MM621_F25/edit/main/diary/faucet-towards.jpg) 
 
 2. Human Mental Models vs. Physical Structure
 
