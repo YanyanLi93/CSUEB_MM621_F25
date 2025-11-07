@@ -38,7 +38,7 @@ They make life easier, even though they may slow innovation.
 
 An example of Standardization:
 
-![Water bottle](https://raw.githubusercontent.com/YanyanLi93/CSUEB_MM621_F25/main/diary/63986078.avif)
+![Water bottle](https://raw.githubusercontent.com/YanyanLi93/CSUEB_MM621_F25/main/diary/southeast.jfif)
 
 4. Using Sound as Signifiers
 
