@@ -20,11 +20,14 @@ However, when people look at it from a different angle or get closer, they will 
 
 ![faucet](https://raw.githubusercontent.com/YanyanLi93/CSUEB_MM621_F25/main/diary/faucet-towards.jpg)
 
+
+
 2. Human Mental Models vs. Physical Structure
 
 Norman notes that a faucet seems simple, but the user’s goals (controlling temperature and flow) conflict with the physical structure of the device (two pipes: hot and cold).
 He lists different faucet designs (dual knobs, single lever, motion-sensor, etc.) to show that designers must base their work on the psychological conceptual model — how people think things should work — rather than the mechanical structure hidden inside.
-Key idea: Design should make sense to people, not just to engineers.
+
+
 
 3. Standardization and Cultural Constraints
 
@@ -32,6 +35,10 @@ When intuitive design isn’t enough, standards and cultural conventions help us
 For example, the direction of faucet handles or the meaning of colors (red for hot, blue for cold) should be standardized.
 Conclusion: Standards should follow human psychology, not mechanical logic.
 They make life easier, even though they may slow innovation.
+
+An example of Standardization:
+
+![Water bottle](https://raw.githubusercontent.com/YanyanLi93/CSUEB_MM621_F25/main/diary/63986078.avif)
 
 4. Using Sound as Signifiers
 
@@ -45,6 +52,8 @@ Uses rich, natural sounds.
 Gives useful information without becoming intrusive.
 
 Allows users to “hear” how things are working, even when their eyes are busy.
+
+
 
 5. Conclusion: Balancing Consistency and Improvement
 
