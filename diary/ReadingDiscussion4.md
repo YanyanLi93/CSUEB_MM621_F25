@@ -45,13 +45,7 @@ An example of Standardization:
 Not everything can be seen — sometimes sound communicates best. Norman explains that natural sounds (a door latch clicking, a kettle whistling, toast popping up) provide valuable feedback about system status.
 In contrast, artificial beeps and buzzes are often uninformative and annoying.
                                                                        
-Good sound design:
-
-Uses rich, natural sounds.
-
-Gives useful information without becoming intrusive.
-
-Allows users to “hear” how things are working, even when their eyes are busy.
+Good sound design: Uses rich, natural sounds. Gives useful information without becoming intrusive. Allows users to “hear” how things are working, even when their eyes are busy.
 
 
 
