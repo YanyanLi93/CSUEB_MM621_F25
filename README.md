@@ -10,6 +10,10 @@ I am Yanyan Li and I am the B3ST!
 
 [Reading Discussion 3](https://github.com/YanyanLi93/CSUEB_MM621_F25/blob/main/diary/ReadingDiscussion3.md)
 
+[Reading Discussion 4](https://github.com/YanyanLi93/CSUEB_MM621_F25/blob/main/diary/ReadingDiscussion4.md)
+
+[Reading Discussion 5](https://github.com/YanyanLi93/CSUEB_MM621_F25/blob/main/diary/ReadingDisc5.md)
+
 <ins>**Exercises & Projects**</ins>
 
 [In-class Exercise 1](https://yanyanli93.github.io/MM621_F25_Randomizer/)
