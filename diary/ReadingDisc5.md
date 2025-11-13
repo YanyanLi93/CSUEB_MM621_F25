@@ -1,4 +1,4 @@
-
+# Reading Discussion 5: Chapter 5 of DOET Part 1 (p162 - 191)
 
 Don Norman argues that what we typically call human error is often actually design error. People make mistakes not because they are careless or unintelligent, but because systems are poorly designed and fail to account for human limitations. Norman emphasizes that designers should create systems that anticipate human error rather than punish it.
 
