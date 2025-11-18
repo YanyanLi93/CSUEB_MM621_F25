@@ -12,7 +12,9 @@ I am Yanyan Li and I am the B3ST!
 
 [Reading Discussion 4](https://github.com/YanyanLi93/CSUEB_MM621_F25/blob/main/diary/ReadingDiscussion4.md)
 
-[Reading Discussion 5](https://github.com/YanyanLi93/CSUEB_MM621_F25/blob/main/diary/ReadingDisc5.md)
+[Reading Discussion 5(Chapter 5 of DOET Part 1 (p162 - 191))](https://github.com/YanyanLi93/CSUEB_MM621_F25/blob/main/diary/ReadingDisc5.md)
+
+[Reading Discussion 6(Chapter 5 of DOET Part 5 (p191 - 216))](https://github.com/YanyanLi93/CSUEB_MM621_F25/blob/main/diary/ReadingDisc6.md)
 
 <ins>**Exercises & Projects**</ins>
 
