@@ -18,11 +18,16 @@ I am Yanyan Li and I am the B3ST!
 
 <ins>**Exercises & Projects**</ins>
 
-[In-class Exercise 1](https://yanyanli93.github.io/MM621_F25_Randomizer/)
+[In-class Exercise 1](https://yanyanli93.github.io/MM621_F25_Randomizer/index.html)
 
-[Project 1 - Blind Box](https://yanyanli93.github.io/MM621_F25_Proj1BlindBox/)
+[Project 1 - Blind Box](https://yanyanli93.github.io/MM621_F25_Proj1BlindBox/index.html)
 
-[In-class Exercise 2](https://yanyanli93.github.io/FoodFatFact/)
+[In-class Exercise 2](https://yanyanli93.github.io/FoodFatFact/index.html)
+
+[Project 2 - Homeless Data](https://yanyanli93.github.io/DataVisualization/index.html)
+
+[Project 3 - Bee Maze](https://yanyanli93.github.io/BeeMaze/index.html)
+
 
 
 ~~**Game Time**~~
